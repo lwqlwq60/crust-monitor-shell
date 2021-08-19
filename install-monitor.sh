@@ -1,0 +1,1 @@
+docker run -p 80:80 --name="crust-monitor" --restart always -d lwqlwq60/crust-monitor:latest 
