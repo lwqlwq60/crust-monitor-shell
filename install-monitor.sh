@@ -1,15 +1,15 @@
 mkdir /opt/crust-monitor
 
 if [ ! -f /opt/crust-monitor/nodes.txt ]; then
-	touch nodes.txt
+	touch /opt/crust-monitor/nodes.txt
 fi
 
 if [ ! -f /opt/crust-monitor/addresses.txt ]; then
-	touch addresses.txt
+	touch /opt/crust-monitor/addresses.txt
 fi
 
 if [ ! -f /opt/crust-monitor/mails.txt ]; then
-	touch mails.txt
+	touch /opt/crust-monitor/mails.txt
 fi
 cp appsettings.json /opt/crust-monitor/appsettings.json
 
