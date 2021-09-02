@@ -1,1 +1,1 @@
-docker run -p 80:80  -v /opt/crust-monitor/mails.txt:/app/mails.txt -v /opt/crust-monitor/nodes.txt:/app/nodes.txt -v /opt/crust-monitor/addresses.txt:/app/addresses.txt --name="crust-monitor" --restart always -d lwqlwq60/crust-monitor:latest 
+docker run -p 80:80  -v /opt/crust-monitor/mails.txt:/app/mails.txt -v /opt/crust-monitor/nodes.txt:/app/nodes.txt -v /opt/crust-monitor/addresses.txt:/app/addresses.txt --name="crust-monitor" --restart always -d lwqlwq60/crust-monitor:latest
