@@ -78,7 +78,7 @@ https://github.com/lwqlwq60/crust-monitor-node
 2. 右上角为dashboard刷新的间隔
 3. 可以点击Disk Status查看磁盘状况，或者点击Reqeust Log请求各crust组件的日志。
 
-![](doc/log.png)
+![](doc/log.PNG)
 
 
 
