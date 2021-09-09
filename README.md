@@ -71,7 +71,7 @@ https://github.com/lwqlwq60/crust-monitor-node
 
 假设你把monitor安装在10.0.0.28上，这时候可以用浏览器打开http://10.0.0.28
 
-![](doc/dashboard.png)
+![](doc/dashboard.PNG)
 
 1. 在Search Ip Address 输入框内填写 Node 的ip地址（比如10.0.0.18），点击右侧按钮 Add To Dashboard，也可以填写10.0.0，它将自动搜索10.0.0.1-10.0.0.254中可用的Node节点。
 
